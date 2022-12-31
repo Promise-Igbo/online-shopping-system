@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "onlineshop";
+$servername = "newapp30-server.mysql.database.azure.com";
+$username = "dtlzlnttri";
+$password = "8VBXQ7ZQ4WR85YV4$";
+$db = "newapp30-database";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
