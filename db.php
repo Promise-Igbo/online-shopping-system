@@ -1,8 +1,8 @@
 <?php
 
-$servername = "dbserver2.mysql.database.azure.com";
-$username = "promise";
-$password = "password@123";
+$servername = "";
+$username = "";
+$password = "";
 $db = "onlineshop";
 
 // Create connection
