@@ -1,0 +1,11 @@
+{
+    "name": "admin/online-shopping-system",
+    "description": "This is a shopping system",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Admin\\OnlineShoppingSystem\\": "src/"
+        }
+    },
+    "require": {}
+}
